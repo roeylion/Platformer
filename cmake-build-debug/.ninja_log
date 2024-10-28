@@ -1,0 +1,6 @@
+# ninja log v6
+3	224	7518144258403763	build.ninja	3630aaa60afe102
+1	489	7518144062538358	CMakeFiles/Platformer.dir/main.cpp.obj	dabbca9c89b2e2b4
+490	572	7518144067432247	Platformer.exe	75f4f9414f48924f
+5	502	7518144686898560	CMakeFiles/Platformer.dir/main.cpp.obj	dabbca9c89b2e2b4
+502	586	7518144691864201	Platformer.exe	75f4f9414f48924f

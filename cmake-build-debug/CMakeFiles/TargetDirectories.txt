@@ -1,0 +1,3 @@
+G:/roey/CODE/cpp/Platformer/cmake-build-debug/CMakeFiles/Platformer.dir
+G:/roey/CODE/cpp/Platformer/cmake-build-debug/CMakeFiles/edit_cache.dir
+G:/roey/CODE/cpp/Platformer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
